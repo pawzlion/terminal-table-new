@@ -23,4 +23,8 @@ To compile it, execute:
 
 gem build terminal-table.gemspec
 
-To install it,
+To install it, execute:
+
+sudo gem install terminal-table-xxxx.gem
+
+(Where xxxx is the version number of the gem produced in the build stage)
